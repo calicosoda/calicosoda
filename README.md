@@ -1,6 +1,8 @@
 ### Hi there 👋
 - 😄 Pronouns: She/They
 - 🌱 I’m currently learning Discord Python
+
+[link](https://media.discordapp.net/attachments/791707373932118066/820724144583999558/image1.png?width=122&height=94)
 <!--
 **calicosoda/calicosoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
