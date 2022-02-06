@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 😄 Pronouns: She/They
+- 😄 Pronouns: They/Them
 - 🌱 I’m currently learning Discord Python
 
 ![cat](https://media.discordapp.net/attachments/791707373932118066/820724144583999558/image1.png?width=122&height=94)
